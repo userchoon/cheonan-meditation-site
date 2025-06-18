@@ -4,6 +4,7 @@ import VisualSection1 from "./components/VisualSection1";
 import MeditationInfo from "./components/MeditationInfo";
 import VisualSection2 from "./components/VisualSection2";
 import Testimonial from "./components/Testimonial";
+import Calculator from "./components/Calculator";
 import Contact from "./components/Contact";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <MeditationInfo />
       <VisualSection2 />
       <Testimonial />
+      <Calculator />
       <Contact />
     </div>
   );
